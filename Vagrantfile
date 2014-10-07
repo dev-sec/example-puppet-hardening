@@ -8,7 +8,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Ubuntu
   config.vm.define "ubuntu-trusty" do |c|
-    c.vm.box = "trusty64"
+    c.vm.box = "trusty32"
     c.vm.box_url = "https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-i386-vagrant-disk1.box"
 
     c.vm.provision :shell, inline: "apt-get update"
