@@ -1,5 +1,7 @@
 # Example Puppet Hardening
 
+Note: This repository is deprecated in favor of [https://github.com/hardening-io/hardening](https://github.com/hardening-io/hardening)
+
 Demonstrates the use of hardening modules via puppet. Use either Vagrant or Docker, whichever you prefer.
 
 ## Modules
