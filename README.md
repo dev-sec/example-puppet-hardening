@@ -1,3 +1,7 @@
+# DEPRECATED
+
+THIS PROJECT IS NO LONGER SUPPORTED
+
 # Example Puppet Hardening
 
 Note: This repository is deprecated in favor of [https://github.com/hardening-io/hardening](https://github.com/hardening-io/hardening)
